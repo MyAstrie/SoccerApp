@@ -1,10 +1,10 @@
-package my.soccerapp;
+package my.socksapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SoccerAppApplicationTests {
+class SocksAppApplicationTests {
 
     @Test
     void contextLoads() {
